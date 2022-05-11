@@ -1,2 +1,2 @@
 # git-test
-To test out git operations
+To test and practice git operations
